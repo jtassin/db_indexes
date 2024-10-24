@@ -1,0 +1,565 @@
+[
+  {
+    "start": "Alban Deconinck",
+    "end": "Claire De Giovanni",
+    "values": [
+      {
+        "start": "Alban Deconinck",
+        "end": "Alexis Ablain",
+        "values": [
+          {
+            "start": "Alban Deconinck",
+            "end": "Alban Deconinck",
+            "values": [
+              0
+            ]
+          },
+          {
+            "start": "Alexandre Guillon",
+            "end": "Alexandre Guillon",
+            "values": [
+              1
+            ]
+          },
+          {
+            "start": "Alexis Ablain",
+            "end": "Alexis Ablain",
+            "values": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Axel Shaita",
+        "end": "Benjamin Bouillot",
+        "values": [
+          {
+            "start": "Axel Shaita",
+            "end": "Axel Shaita",
+            "values": [
+              3
+            ]
+          },
+          {
+            "start": "Benjamin Alcade",
+            "end": "Benjamin Alcade",
+            "values": [
+              4
+            ]
+          },
+          {
+            "start": "Benjamin Bouillot",
+            "end": "Benjamin Bouillot",
+            "values": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Benoit Demaegdt",
+        "end": "Benoit Mathieu",
+        "values": [
+          {
+            "start": "Benoit Demaegdt",
+            "end": "Benoit Demaegdt",
+            "values": [
+              6
+            ]
+          },
+          {
+            "start": "Benoit Glevarec",
+            "end": "Benoit Glevarec",
+            "values": [
+              8
+            ]
+          },
+          {
+            "start": "Benoit Mathieu",
+            "end": "Benoit Mathieu",
+            "values": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Celia Lamri",
+        "end": "Claire De Giovanni",
+        "values": [
+          {
+            "start": "Celia Lamri",
+            "end": "Celia Lamri",
+            "values": [
+              9
+            ]
+          },
+          {
+            "start": "Charles Gourdin",
+            "end": "Charles Gourdin",
+            "values": [
+              10
+            ]
+          },
+          {
+            "start": "Claire De Giovanni",
+            "end": "Claire De Giovanni",
+            "values": [
+              11
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "Corentin Thomasset",
+    "end": "Huy Tran",
+    "values": [
+      {
+        "start": "Corentin Thomasset",
+        "end": "Dimitri Teboul",
+        "values": [
+          {
+            "start": "Corentin Thomasset",
+            "end": "Corentin Thomasset",
+            "values": [
+              12
+            ]
+          },
+          {
+            "start": "David Touzet",
+            "end": "David Touzet",
+            "values": [
+              13
+            ]
+          },
+          {
+            "start": "Dimitri Teboul",
+            "end": "Dimitri Teboul",
+            "values": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Eloïse Chizat",
+        "end": "Eric Daspet",
+        "values": [
+          {
+            "start": "Eloïse Chizat",
+            "end": "Eloïse Chizat",
+            "values": [
+              15
+            ]
+          },
+          {
+            "start": "Emmanuel Auclair",
+            "end": "Emmanuel Auclair",
+            "values": [
+              17
+            ]
+          },
+          {
+            "start": "Eric Daspet",
+            "end": "Eric Daspet",
+            "values": [
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Fabien Ducret",
+        "end": "Guillaume Marchand",
+        "values": [
+          {
+            "start": "Fabien Ducret",
+            "end": "Fabien Ducret",
+            "values": [
+              19
+            ]
+          },
+          {
+            "start": "Francis Jacquot",
+            "end": "Francis Jacquot",
+            "values": [
+              20
+            ]
+          },
+          {
+            "start": "Guillaume Marchand",
+            "end": "Guillaume Marchand",
+            "values": [
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Horeb Parraud",
+        "end": "Huy Tran",
+        "values": [
+          {
+            "start": "Horeb Parraud",
+            "end": "Horeb Parraud",
+            "values": [
+              22
+            ]
+          },
+          {
+            "start": "Hugo Contreras",
+            "end": "Hugo Contreras",
+            "values": [
+              23
+            ]
+          },
+          {
+            "start": "Huy Tran",
+            "end": "Huy Tran",
+            "values": [
+              44
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "Jean-Luc Toutant",
+    "end": "Maud Lelu",
+    "values": [
+      {
+        "start": "Jean-Luc Toutant",
+        "end": "Leo Martin",
+        "values": [
+          {
+            "start": "Jean-Luc Toutant",
+            "end": "Jean-Luc Toutant",
+            "values": [
+              24
+            ]
+          },
+          {
+            "start": "Julien Tassin",
+            "end": "Julien Tassin",
+            "values": [
+              25
+            ]
+          },
+          {
+            "start": "Leo Martin",
+            "end": "Leo Martin",
+            "values": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Loic Bousquet",
+        "end": "Lucas Gauthier",
+        "values": [
+          {
+            "start": "Loic Bousquet",
+            "end": "Loic Bousquet",
+            "values": [
+              29
+            ]
+          },
+          {
+            "start": "Loïc Verilhac",
+            "end": "Loïc Verilhac",
+            "values": [
+              28
+            ]
+          },
+          {
+            "start": "Lucas Gauthier",
+            "end": "Lucas Gauthier",
+            "values": [
+              30
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Lucas Geoffroy",
+        "end": "Marc Vincenti",
+        "values": [
+          {
+            "start": "Lucas Geoffroy",
+            "end": "Lucas Geoffroy",
+            "values": [
+              31
+            ]
+          },
+          {
+            "start": "Lucas Theves",
+            "end": "Lucas Theves",
+            "values": [
+              32
+            ]
+          },
+          {
+            "start": "Marc Vincenti",
+            "end": "Marc Vincenti",
+            "values": [
+              33
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Mathieu Stanowski",
+        "end": "Maud Lelu",
+        "values": [
+          {
+            "start": "Mathieu Stanowski",
+            "end": "Mathieu Stanowski",
+            "values": [
+              34
+            ]
+          },
+          {
+            "start": "Mathis Bourrat",
+            "end": "Mathis Bourrat",
+            "values": [
+              35
+            ]
+          },
+          {
+            "start": "Maud Lelu",
+            "end": "Maud Lelu",
+            "values": [
+              36
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "Maxime Chabert",
+    "end": "Sébastien Couniot",
+    "values": [
+      {
+        "start": "Maxime Chabert",
+        "end": "Mian Tram",
+        "values": [
+          {
+            "start": "Maxime Chabert",
+            "end": "Maxime Chabert",
+            "values": [
+              37
+            ]
+          },
+          {
+            "start": "Maxime Juramy",
+            "end": "Maxime Juramy",
+            "values": [
+              38
+            ]
+          },
+          {
+            "start": "Mian Tram",
+            "end": "Mian Tram",
+            "values": [
+              39
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Mustapha Mastour",
+        "end": "Nicolas Poirier",
+        "values": [
+          {
+            "start": "Mustapha Mastour",
+            "end": "Mustapha Mastour",
+            "values": [
+              40
+            ]
+          },
+          {
+            "start": "Nicolas Emilien",
+            "end": "Nicolas Emilien",
+            "values": [
+              16
+            ]
+          },
+          {
+            "start": "Nicolas Poirier",
+            "end": "Nicolas Poirier",
+            "values": [
+              42
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Nicolas Vidale",
+        "end": "Raphael Sauget",
+        "values": [
+          {
+            "start": "Nicolas Vidale",
+            "end": "Nicolas Vidale",
+            "values": [
+              41
+            ]
+          },
+          {
+            "start": "Pablo Larvor",
+            "end": "Pablo Larvor",
+            "values": [
+              43
+            ]
+          },
+          {
+            "start": "Raphael Sauget",
+            "end": "Raphael Sauget",
+            "values": [
+              45
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Romain Koenig",
+        "end": "Sébastien Couniot",
+        "values": [
+          {
+            "start": "Romain Koenig",
+            "end": "Romain Koenig",
+            "values": [
+              46
+            ]
+          },
+          {
+            "start": "Stanyslas Bres",
+            "end": "Stanyslas Bres",
+            "values": [
+              48
+            ]
+          },
+          {
+            "start": "Sébastien Couniot",
+            "end": "Sébastien Couniot",
+            "values": [
+              47
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "Thibault Caussanel",
+    "end": "Zoe Neirac",
+    "values": [
+      {
+        "start": "Thibault Caussanel",
+        "end": "Vincent Bourgeois",
+        "values": [
+          {
+            "start": "Thibault Caussanel",
+            "end": "Thibault Caussanel",
+            "values": [
+              49
+            ]
+          },
+          {
+            "start": "Victor Borg",
+            "end": "Victor Borg",
+            "values": [
+              50
+            ]
+          },
+          {
+            "start": "Vincent Bourgeois",
+            "end": "Vincent Bourgeois",
+            "values": [
+              51
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Vincent Payen",
+        "end": "Walter Kevin",
+        "values": [
+          {
+            "start": "Vincent Payen",
+            "end": "Vincent Payen",
+            "values": [
+              52
+            ]
+          },
+          {
+            "start": "Virgil Roger",
+            "end": "Virgil Roger",
+            "values": [
+              53
+            ]
+          },
+          {
+            "start": "Walter Kevin",
+            "end": "Walter Kevin",
+            "values": [
+              26
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Xiaoyan Chen",
+        "end": "Yukai Wang",
+        "values": [
+          {
+            "start": "Xiaoyan Chen",
+            "end": "Xiaoyan Chen",
+            "values": [
+              54
+            ]
+          },
+          {
+            "start": "Yohann Bondeau ",
+            "end": "Yohann Bondeau ",
+            "values": [
+              55
+            ]
+          },
+          {
+            "start": "Yukai Wang",
+            "end": "Yukai Wang",
+            "values": [
+              56
+            ]
+          }
+        ]
+      },
+      {
+        "start": "Yukan Zhao",
+        "end": "Zoe Neirac",
+        "values": [
+          {
+            "start": "Yukan Zhao",
+            "end": "Yukan Zhao",
+            "values": [
+              57
+            ]
+          },
+          {
+            "start": "Zoe Neirac",
+            "end": "Zoe Neirac",
+            "values": [
+              58
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
