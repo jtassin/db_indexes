@@ -11,7 +11,6 @@ function splitIntoChunks(array, chunkCount) {
 
 function buildBTree({ array, field }) {
     const sortedArray = array.sort((a, b) => a[field] > b[field] ? 1 : -1);
-    console.log(sortedArray)
 
     return buildBTreeInner({ array: sortedArray, field, index: [] })
 }
@@ -36,9 +35,6 @@ function buildBTreeInner({ array, field, index }) {
     }
     const devChunks = splitIntoChunks(orphans, 5);
     const result = devChunks.reduce((acc, chunk) => {
-        // if(chunk.length === 1) {
-        //     console.log('chunk', orphans, chunk)
-        // }
         if(chunk[0]) {
             acc.push({
                 start: chunk[0][field],

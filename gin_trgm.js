@@ -11,7 +11,6 @@ function generateTrigrams(str) {
     for (let i = 0; i < paddedStr.length - 2; i++) {
         trigrams.push(paddedStr.slice(i, i + 3));
     }
-
     return trigrams;
 }
 
@@ -29,5 +28,6 @@ function buildGinTrgm({ array, field }) {
 }
 
 module.exports = {
-    buildGinTrgm
+    buildGinTrgm,
+    generateTrigrams
 }

@@ -1,7 +1,7 @@
 const { data } = require('./dataset');
 const fs = require('fs');
 const { buildGinTrgm } = require('./gin_trgm');  
-const { findAllBtreeValues } = require('./searchers');
+const { findAllBtreeValues, findAllTrigramSearch } = require('./searchers');
 
 
 function run() {
@@ -11,7 +11,9 @@ function run() {
 
     console.log('Gin Trgm Index has been written to gin_trgm.json');
 
-    findAllBtreeValues({ fullname: "Ben", tree: ginIndex, data });
+    findAllBtreeValues({ fullname: "ien", tree: ginIndex, data });
+
+    findAllTrigramSearch({ fullname: "Julien", tree: ginIndex, data });
 }
 
 run();
